@@ -34,22 +34,6 @@ You can **run GUI chat and console chat simultaneously** in one project.
 
 ---
 
-> **Server GUI**
-
-![Server GUI](https://via.placeholder.com/700x400?text=Server+GUI+Screenshot)
-
-> **Client GUI**
-
-![Client GUI](https://via.placeholder.com/700x400?text=Client+GUI+Screenshot)
-
-> **Console Chat**
-
-![Console Chat](https://via.placeholder.com/700x400?text=Console+Chat+Screenshot)
-
-*(Replace these placeholder links with actual screenshots later)*
-
----
-
 ## ⚡ How to Run
 
 ### **1. Clone the Repository**
