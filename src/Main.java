@@ -57,6 +57,6 @@ public class Main {
         }, "Console-Client-Thread");
         consoleClientThread.start();
 
-        System.out.println("✅ All components started: GUI Chat + Console Chat");
+        System.out.println("components started");
     }
 }
