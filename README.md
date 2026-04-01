@@ -31,12 +31,3 @@ You can **run GUI chat and console chat simultaneously** in one project.
 ✅ Automatic server + client startup  
 ✅ GUI chat and console chat run **together**  
 ✅ Clean, modular, and beginner-friendly code
-
----
-
-## ⚡ How to Run
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/tapan2004/chatApplication.git
-cd chatApplication
